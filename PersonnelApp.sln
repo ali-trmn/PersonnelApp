@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PersonnelApp.Shared", "PersonnelApp.Shared\PersonnelApp.Shared.csproj", "{EE0FC2CC-3186-4817-A537-8F3ACC944EC0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PersonnelApp.Model", "PersonnelApp.Model\PersonnelApp.Model.csproj", "{3A6973C1-2AB9-4726-8FE8-BE9176F30A60}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PersonnelApp.Entities", "PersonnelApp.Entities\PersonnelApp.Entities.csproj", "{7629B98E-6EE4-4E6B-8EE5-95B93219C8B0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PersonnelApp.Data", "PersonnelApp.Data\PersonnelApp.Data.csproj", "{683AA588-6E91-4FB8-8FE3-99983AAC2712}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PersonnelApp.Service", "PersonnelApp.Service\PersonnelApp.Service.csproj", "{5A31A6F7-276E-4B8D-B86D-2D9D111C7482}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonnelApp.API", "PersonnelApp.API\PersonnelApp.API.csproj", "{B5ADF17D-0F18-403F-A906-D8F0B347D6BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE0FC2CC-3186-4817-A537-8F3ACC944EC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE0FC2CC-3186-4817-A537-8F3ACC944EC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE0FC2CC-3186-4817-A537-8F3ACC944EC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE0FC2CC-3186-4817-A537-8F3ACC944EC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A6973C1-2AB9-4726-8FE8-BE9176F30A60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A6973C1-2AB9-4726-8FE8-BE9176F30A60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A6973C1-2AB9-4726-8FE8-BE9176F30A60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A6973C1-2AB9-4726-8FE8-BE9176F30A60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7629B98E-6EE4-4E6B-8EE5-95B93219C8B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7629B98E-6EE4-4E6B-8EE5-95B93219C8B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7629B98E-6EE4-4E6B-8EE5-95B93219C8B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7629B98E-6EE4-4E6B-8EE5-95B93219C8B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{683AA588-6E91-4FB8-8FE3-99983AAC2712}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{683AA588-6E91-4FB8-8FE3-99983AAC2712}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{683AA588-6E91-4FB8-8FE3-99983AAC2712}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{683AA588-6E91-4FB8-8FE3-99983AAC2712}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A31A6F7-276E-4B8D-B86D-2D9D111C7482}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A31A6F7-276E-4B8D-B86D-2D9D111C7482}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A31A6F7-276E-4B8D-B86D-2D9D111C7482}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A31A6F7-276E-4B8D-B86D-2D9D111C7482}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5ADF17D-0F18-403F-A906-D8F0B347D6BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5ADF17D-0F18-403F-A906-D8F0B347D6BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5ADF17D-0F18-403F-A906-D8F0B347D6BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5ADF17D-0F18-403F-A906-D8F0B347D6BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {720E90E2-7BF1-415D-A75D-784814072B06}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "2VunNv2TmAIL5zYctxkEMp2kUAhLiW1BXEHoUllfxUc=",
+  "Source": "PersonnelApp.API",
+  "BasePath": "_content/PersonnelApp.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "PersonnelApp.API\\wwwroot",
+      "Source": "PersonnelApp.API",
+      "ContentRoot": "C:\\Users\\Ali Toraman\\Desktop\\PersonelApp\\PersonnelApp\\PersonnelApp.API\\wwwroot\\",
+      "BasePath": "_content/PersonnelApp.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Ali Toraman\\Desktop\\PersonelApp\\PersonnelApp\\PersonnelApp.API\\wwwroot\\erkek-gunes-gozlugu-pilot-kcm78144133-1-ccbd7da4dd97495bac76a79ee71fe81e.jpg",
+      "SourceId": "PersonnelApp.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ali Toraman\\Desktop\\PersonelApp\\PersonnelApp\\PersonnelApp.API\\wwwroot\\",
+      "BasePath": "_content/PersonnelApp.API",
+      "RelativePath": "erkek-gunes-gozlugu-pilot-kcm78144133-1-ccbd7da4dd97495bac76a79ee71fe81e.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\erkek-gunes-gozlugu-pilot-kcm78144133-1-ccbd7da4dd97495bac76a79ee71fe81e.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Ali Toraman\\Desktop\\PersonelApp\\PersonnelApp\\PersonnelApp.API\\wwwroot\\image.jpg",
+      "SourceId": "PersonnelApp.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ali Toraman\\Desktop\\PersonelApp\\PersonnelApp\\PersonnelApp.API\\wwwroot\\",
+      "BasePath": "_content/PersonnelApp.API",
+      "RelativePath": "image.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\image.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Ali Toraman\\Desktop\\PersonelApp\\PersonnelApp\\PersonnelApp.API\\wwwroot\\unnamed.webp",
+      "SourceId": "PersonnelApp.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ali Toraman\\Desktop\\PersonelApp\\PersonnelApp\\PersonnelApp.API\\wwwroot\\",
+      "BasePath": "_content/PersonnelApp.API",
+      "RelativePath": "unnamed.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\unnamed.webp"
+    }
+  ]
+}

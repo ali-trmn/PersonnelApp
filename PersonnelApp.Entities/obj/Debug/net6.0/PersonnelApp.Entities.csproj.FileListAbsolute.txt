@@ -1,0 +1,15 @@
+C:\Users\Ali Toraman\Desktop\PersonelApp\PersonnelApp\PersonnelApp.Entities\bin\Debug\net6.0\PersonnelApp.Entities.deps.json
+C:\Users\Ali Toraman\Desktop\PersonelApp\PersonnelApp\PersonnelApp.Entities\bin\Debug\net6.0\PersonnelApp.Entities.dll
+C:\Users\Ali Toraman\Desktop\PersonelApp\PersonnelApp\PersonnelApp.Entities\bin\Debug\net6.0\PersonnelApp.Entities.pdb
+C:\Users\Ali Toraman\Desktop\PersonelApp\PersonnelApp\PersonnelApp.Entities\bin\Debug\net6.0\PersonnelApp.Shared.dll
+C:\Users\Ali Toraman\Desktop\PersonelApp\PersonnelApp\PersonnelApp.Entities\bin\Debug\net6.0\PersonnelApp.Shared.pdb
+C:\Users\Ali Toraman\Desktop\PersonelApp\PersonnelApp\PersonnelApp.Entities\obj\Debug\net6.0\PersonnelApp.Entities.csproj.AssemblyReference.cache
+C:\Users\Ali Toraman\Desktop\PersonelApp\PersonnelApp\PersonnelApp.Entities\obj\Debug\net6.0\PersonnelApp.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali Toraman\Desktop\PersonelApp\PersonnelApp\PersonnelApp.Entities\obj\Debug\net6.0\PersonnelApp.Entities.AssemblyInfoInputs.cache
+C:\Users\Ali Toraman\Desktop\PersonelApp\PersonnelApp\PersonnelApp.Entities\obj\Debug\net6.0\PersonnelApp.Entities.AssemblyInfo.cs
+C:\Users\Ali Toraman\Desktop\PersonelApp\PersonnelApp\PersonnelApp.Entities\obj\Debug\net6.0\PersonnelApp.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Ali Toraman\Desktop\PersonelApp\PersonnelApp\PersonnelApp.Entities\obj\Debug\net6.0\PersonnelApp.Entities.csproj.CopyComplete
+C:\Users\Ali Toraman\Desktop\PersonelApp\PersonnelApp\PersonnelApp.Entities\obj\Debug\net6.0\PersonnelApp.Entities.dll
+C:\Users\Ali Toraman\Desktop\PersonelApp\PersonnelApp\PersonnelApp.Entities\obj\Debug\net6.0\refint\PersonnelApp.Entities.dll
+C:\Users\Ali Toraman\Desktop\PersonelApp\PersonnelApp\PersonnelApp.Entities\obj\Debug\net6.0\PersonnelApp.Entities.pdb
+C:\Users\Ali Toraman\Desktop\PersonelApp\PersonnelApp\PersonnelApp.Entities\obj\Debug\net6.0\ref\PersonnelApp.Entities.dll
