@@ -3,6 +3,8 @@ using Microsoft.IdentityModel.Tokens;
 using PersonnelApp.Service.Security;
 using System.Text;
 
+string MyAllowSpecificOrigins = "GlobalCors";
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -10,9 +12,13 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllers();
 builder.Services.AddCors(opt =>
 {
-    opt.AddPolicy("GlobalCors", config =>
+    opt.AddPolicy(name: MyAllowSpecificOrigins, policy =>
     {
-        config.AllowAnyOrigin().AllowAnyHeader().AllowAnyMethod();
+        policy.WithOrigins(
+            // öyle herþeye izin verilmez linklerini buraya yazacaksýn :)
+            "http://localhost:7177",
+            "https://localhost:7177"
+            ).AllowAnyHeader().AllowAnyMethod().AllowCredentials();
     });
 });
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
@@ -45,7 +51,7 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 app.UseStaticFiles();
-app.UseCors("GlobalCors");
+app.UseCors(MyAllowSpecificOrigins);
 app.UseAuthentication();
 app.UseAuthorization();
 app.MapControllers();

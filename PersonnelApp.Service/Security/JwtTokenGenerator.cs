@@ -12,7 +12,7 @@ namespace PersonnelApp.Service.Security
 {
     public class JwtTokenGenerator
     {
-        public static JwtTokenResponse GenerateToken(CheckUserResponseDto checkUserResponseDto)
+        public static string GenerateToken(CheckUserResponseDto checkUserResponseDto)
         {
             var securityKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(JwtTokenSetting.Key));
 
@@ -34,7 +34,7 @@ namespace PersonnelApp.Service.Security
                 signingCredentials: credentials
                 );
             JwtSecurityTokenHandler handler = new JwtSecurityTokenHandler();
-            return new JwtTokenResponse(handler.WriteToken(token), expireDate);
+            return new JwtSecurityTokenHandler().WriteToken(token);
         }
     }
 }

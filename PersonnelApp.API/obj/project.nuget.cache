@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "X25yC74pcOfdz4VJ6ASDI80VJFiSx0ce6pYbZCYqB1tDtUEJp1qMH8eSDytzpFBgPIwnSPet6YquV4ZE4jk1QQ==",
+  "dgSpecHash": "Gi8HMyj0LjizKpQn/dhz1j5wbrVG2+u6RxFkHMXwsZc25BCZXCYbz0EUzEBKL6n4JWLEdB5Ofrm5I29ucaQb3Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ali Toraman\\Desktop\\PersonelApp\\PersonnelApp\\PersonnelApp.API\\PersonnelApp.API.csproj",
+  "projectFilePath": "C:\\Users\\Ali Toraman\\Desktop\\Çalışma Alanı\\PersonnelApp\\PersonnelApp.API\\PersonnelApp.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ali Toraman\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.11\\microsoft.aspnetcore.authentication.jwtbearer.6.0.11.nupkg.sha512",
     "C:\\Users\\Ali Toraman\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

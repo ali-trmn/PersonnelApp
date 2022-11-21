@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ali Toraman\\Desktop\\PersonelApp\\PersonnelApp\\PersonnelApp.API\\PersonnelApp.API.csproj": {}
+    "C:\\Users\\Ali Toraman\\Desktop\\Çalışma Alanı\\PersonnelApp\\PersonnelApp.API\\PersonnelApp.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ali Toraman\\Desktop\\PersonelApp\\PersonnelApp\\PersonnelApp.API\\PersonnelApp.API.csproj": {
+    "C:\\Users\\Ali Toraman\\Desktop\\Çalışma Alanı\\PersonnelApp\\PersonnelApp.API\\PersonnelApp.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ali Toraman\\Desktop\\PersonelApp\\PersonnelApp\\PersonnelApp.API\\PersonnelApp.API.csproj",
+        "projectUniqueName": "C:\\Users\\Ali Toraman\\Desktop\\Çalışma Alanı\\PersonnelApp\\PersonnelApp.API\\PersonnelApp.API.csproj",
         "projectName": "PersonnelApp.API",
-        "projectPath": "C:\\Users\\Ali Toraman\\Desktop\\PersonelApp\\PersonnelApp\\PersonnelApp.API\\PersonnelApp.API.csproj",
+        "projectPath": "C:\\Users\\Ali Toraman\\Desktop\\Çalışma Alanı\\PersonnelApp\\PersonnelApp.API\\PersonnelApp.API.csproj",
         "packagesPath": "C:\\Users\\Ali Toraman\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ali Toraman\\Desktop\\PersonelApp\\PersonnelApp\\PersonnelApp.API\\obj\\",
+        "outputPath": "C:\\Users\\Ali Toraman\\Desktop\\Çalışma Alanı\\PersonnelApp\\PersonnelApp.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,11 +33,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Ali Toraman\\Desktop\\PersonelApp\\PersonnelApp\\PersonnelApp.Model\\PersonnelApp.Model.csproj": {
-                "projectPath": "C:\\Users\\Ali Toraman\\Desktop\\PersonelApp\\PersonnelApp\\PersonnelApp.Model\\PersonnelApp.Model.csproj"
+              "C:\\Users\\Ali Toraman\\Desktop\\Çalışma Alanı\\PersonnelApp\\PersonnelApp.Model\\PersonnelApp.Model.csproj": {
+                "projectPath": "C:\\Users\\Ali Toraman\\Desktop\\Çalışma Alanı\\PersonnelApp\\PersonnelApp.Model\\PersonnelApp.Model.csproj"
               },
-              "C:\\Users\\Ali Toraman\\Desktop\\PersonelApp\\PersonnelApp\\PersonnelApp.Service\\PersonnelApp.Service.csproj": {
-                "projectPath": "C:\\Users\\Ali Toraman\\Desktop\\PersonelApp\\PersonnelApp\\PersonnelApp.Service\\PersonnelApp.Service.csproj"
+              "C:\\Users\\Ali Toraman\\Desktop\\Çalışma Alanı\\PersonnelApp\\PersonnelApp.Service\\PersonnelApp.Service.csproj": {
+                "projectPath": "C:\\Users\\Ali Toraman\\Desktop\\Çalışma Alanı\\PersonnelApp\\PersonnelApp.Service\\PersonnelApp.Service.csproj"
               }
             }
           }
@@ -84,14 +84,14 @@
         }
       }
     },
-    "C:\\Users\\Ali Toraman\\Desktop\\PersonelApp\\PersonnelApp\\PersonnelApp.Data\\PersonnelApp.Data.csproj": {
+    "C:\\Users\\Ali Toraman\\Desktop\\Çalışma Alanı\\PersonnelApp\\PersonnelApp.Data\\PersonnelApp.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ali Toraman\\Desktop\\PersonelApp\\PersonnelApp\\PersonnelApp.Data\\PersonnelApp.Data.csproj",
+        "projectUniqueName": "C:\\Users\\Ali Toraman\\Desktop\\Çalışma Alanı\\PersonnelApp\\PersonnelApp.Data\\PersonnelApp.Data.csproj",
         "projectName": "PersonnelApp.Data",
-        "projectPath": "C:\\Users\\Ali Toraman\\Desktop\\PersonelApp\\PersonnelApp\\PersonnelApp.Data\\PersonnelApp.Data.csproj",
+        "projectPath": "C:\\Users\\Ali Toraman\\Desktop\\Çalışma Alanı\\PersonnelApp\\PersonnelApp.Data\\PersonnelApp.Data.csproj",
         "packagesPath": "C:\\Users\\Ali Toraman\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ali Toraman\\Desktop\\PersonelApp\\PersonnelApp\\PersonnelApp.Data\\obj\\",
+        "outputPath": "C:\\Users\\Ali Toraman\\Desktop\\Çalışma Alanı\\PersonnelApp\\PersonnelApp.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -113,8 +113,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Ali Toraman\\Desktop\\PersonelApp\\PersonnelApp\\PersonnelApp.Entities\\PersonnelApp.Entities.csproj": {
-                "projectPath": "C:\\Users\\Ali Toraman\\Desktop\\PersonelApp\\PersonnelApp\\PersonnelApp.Entities\\PersonnelApp.Entities.csproj"
+              "C:\\Users\\Ali Toraman\\Desktop\\Çalışma Alanı\\PersonnelApp\\PersonnelApp.Entities\\PersonnelApp.Entities.csproj": {
+                "projectPath": "C:\\Users\\Ali Toraman\\Desktop\\Çalışma Alanı\\PersonnelApp\\PersonnelApp.Entities\\PersonnelApp.Entities.csproj"
               }
             }
           }
@@ -166,14 +166,14 @@
         }
       }
     },
-    "C:\\Users\\Ali Toraman\\Desktop\\PersonelApp\\PersonnelApp\\PersonnelApp.Entities\\PersonnelApp.Entities.csproj": {
+    "C:\\Users\\Ali Toraman\\Desktop\\Çalışma Alanı\\PersonnelApp\\PersonnelApp.Entities\\PersonnelApp.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ali Toraman\\Desktop\\PersonelApp\\PersonnelApp\\PersonnelApp.Entities\\PersonnelApp.Entities.csproj",
+        "projectUniqueName": "C:\\Users\\Ali Toraman\\Desktop\\Çalışma Alanı\\PersonnelApp\\PersonnelApp.Entities\\PersonnelApp.Entities.csproj",
         "projectName": "PersonnelApp.Entities",
-        "projectPath": "C:\\Users\\Ali Toraman\\Desktop\\PersonelApp\\PersonnelApp\\PersonnelApp.Entities\\PersonnelApp.Entities.csproj",
+        "projectPath": "C:\\Users\\Ali Toraman\\Desktop\\Çalışma Alanı\\PersonnelApp\\PersonnelApp.Entities\\PersonnelApp.Entities.csproj",
         "packagesPath": "C:\\Users\\Ali Toraman\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ali Toraman\\Desktop\\PersonelApp\\PersonnelApp\\PersonnelApp.Entities\\obj\\",
+        "outputPath": "C:\\Users\\Ali Toraman\\Desktop\\Çalışma Alanı\\PersonnelApp\\PersonnelApp.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -195,8 +195,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Ali Toraman\\Desktop\\PersonelApp\\PersonnelApp\\PersonnelApp.Shared\\PersonnelApp.Shared.csproj": {
-                "projectPath": "C:\\Users\\Ali Toraman\\Desktop\\PersonelApp\\PersonnelApp\\PersonnelApp.Shared\\PersonnelApp.Shared.csproj"
+              "C:\\Users\\Ali Toraman\\Desktop\\Çalışma Alanı\\PersonnelApp\\PersonnelApp.Shared\\PersonnelApp.Shared.csproj": {
+                "projectPath": "C:\\Users\\Ali Toraman\\Desktop\\Çalışma Alanı\\PersonnelApp\\PersonnelApp.Shared\\PersonnelApp.Shared.csproj"
               }
             }
           }
@@ -230,14 +230,14 @@
         }
       }
     },
-    "C:\\Users\\Ali Toraman\\Desktop\\PersonelApp\\PersonnelApp\\PersonnelApp.Model\\PersonnelApp.Model.csproj": {
+    "C:\\Users\\Ali Toraman\\Desktop\\Çalışma Alanı\\PersonnelApp\\PersonnelApp.Model\\PersonnelApp.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ali Toraman\\Desktop\\PersonelApp\\PersonnelApp\\PersonnelApp.Model\\PersonnelApp.Model.csproj",
+        "projectUniqueName": "C:\\Users\\Ali Toraman\\Desktop\\Çalışma Alanı\\PersonnelApp\\PersonnelApp.Model\\PersonnelApp.Model.csproj",
         "projectName": "PersonnelApp.Model",
-        "projectPath": "C:\\Users\\Ali Toraman\\Desktop\\PersonelApp\\PersonnelApp\\PersonnelApp.Model\\PersonnelApp.Model.csproj",
+        "projectPath": "C:\\Users\\Ali Toraman\\Desktop\\Çalışma Alanı\\PersonnelApp\\PersonnelApp.Model\\PersonnelApp.Model.csproj",
         "packagesPath": "C:\\Users\\Ali Toraman\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ali Toraman\\Desktop\\PersonelApp\\PersonnelApp\\PersonnelApp.Model\\obj\\",
+        "outputPath": "C:\\Users\\Ali Toraman\\Desktop\\Çalışma Alanı\\PersonnelApp\\PersonnelApp.Model\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -290,14 +290,14 @@
         }
       }
     },
-    "C:\\Users\\Ali Toraman\\Desktop\\PersonelApp\\PersonnelApp\\PersonnelApp.Service\\PersonnelApp.Service.csproj": {
+    "C:\\Users\\Ali Toraman\\Desktop\\Çalışma Alanı\\PersonnelApp\\PersonnelApp.Service\\PersonnelApp.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ali Toraman\\Desktop\\PersonelApp\\PersonnelApp\\PersonnelApp.Service\\PersonnelApp.Service.csproj",
+        "projectUniqueName": "C:\\Users\\Ali Toraman\\Desktop\\Çalışma Alanı\\PersonnelApp\\PersonnelApp.Service\\PersonnelApp.Service.csproj",
         "projectName": "PersonnelApp.Service",
-        "projectPath": "C:\\Users\\Ali Toraman\\Desktop\\PersonelApp\\PersonnelApp\\PersonnelApp.Service\\PersonnelApp.Service.csproj",
+        "projectPath": "C:\\Users\\Ali Toraman\\Desktop\\Çalışma Alanı\\PersonnelApp\\PersonnelApp.Service\\PersonnelApp.Service.csproj",
         "packagesPath": "C:\\Users\\Ali Toraman\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ali Toraman\\Desktop\\PersonelApp\\PersonnelApp\\PersonnelApp.Service\\obj\\",
+        "outputPath": "C:\\Users\\Ali Toraman\\Desktop\\Çalışma Alanı\\PersonnelApp\\PersonnelApp.Service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -319,11 +319,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Ali Toraman\\Desktop\\PersonelApp\\PersonnelApp\\PersonnelApp.Data\\PersonnelApp.Data.csproj": {
-                "projectPath": "C:\\Users\\Ali Toraman\\Desktop\\PersonelApp\\PersonnelApp\\PersonnelApp.Data\\PersonnelApp.Data.csproj"
+              "C:\\Users\\Ali Toraman\\Desktop\\Çalışma Alanı\\PersonnelApp\\PersonnelApp.Data\\PersonnelApp.Data.csproj": {
+                "projectPath": "C:\\Users\\Ali Toraman\\Desktop\\Çalışma Alanı\\PersonnelApp\\PersonnelApp.Data\\PersonnelApp.Data.csproj"
               },
-              "C:\\Users\\Ali Toraman\\Desktop\\PersonelApp\\PersonnelApp\\PersonnelApp.Model\\PersonnelApp.Model.csproj": {
-                "projectPath": "C:\\Users\\Ali Toraman\\Desktop\\PersonelApp\\PersonnelApp\\PersonnelApp.Model\\PersonnelApp.Model.csproj"
+              "C:\\Users\\Ali Toraman\\Desktop\\Çalışma Alanı\\PersonnelApp\\PersonnelApp.Model\\PersonnelApp.Model.csproj": {
+                "projectPath": "C:\\Users\\Ali Toraman\\Desktop\\Çalışma Alanı\\PersonnelApp\\PersonnelApp.Model\\PersonnelApp.Model.csproj"
               }
             }
           }
@@ -357,14 +357,14 @@
         }
       }
     },
-    "C:\\Users\\Ali Toraman\\Desktop\\PersonelApp\\PersonnelApp\\PersonnelApp.Shared\\PersonnelApp.Shared.csproj": {
+    "C:\\Users\\Ali Toraman\\Desktop\\Çalışma Alanı\\PersonnelApp\\PersonnelApp.Shared\\PersonnelApp.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ali Toraman\\Desktop\\PersonelApp\\PersonnelApp\\PersonnelApp.Shared\\PersonnelApp.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\Ali Toraman\\Desktop\\Çalışma Alanı\\PersonnelApp\\PersonnelApp.Shared\\PersonnelApp.Shared.csproj",
         "projectName": "PersonnelApp.Shared",
-        "projectPath": "C:\\Users\\Ali Toraman\\Desktop\\PersonelApp\\PersonnelApp\\PersonnelApp.Shared\\PersonnelApp.Shared.csproj",
+        "projectPath": "C:\\Users\\Ali Toraman\\Desktop\\Çalışma Alanı\\PersonnelApp\\PersonnelApp.Shared\\PersonnelApp.Shared.csproj",
         "packagesPath": "C:\\Users\\Ali Toraman\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ali Toraman\\Desktop\\PersonelApp\\PersonnelApp\\PersonnelApp.Shared\\obj\\",
+        "outputPath": "C:\\Users\\Ali Toraman\\Desktop\\Çalışma Alanı\\PersonnelApp\\PersonnelApp.Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,36 +1,69 @@
 ﻿using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using PersonnelApp.API.Controllers.Base;
 using PersonnelApp.Model.PersonnelDto;
+using PersonnelApp.Model.Shared;
 using PersonnelApp.Service;
 
 namespace PersonnelApp.API.Controllers
 {
-    [Route("api/[controller]")]
-    [ApiController]
 
-    public class PersonnelController : ControllerBase
+    public class PersonnelController : BaseController
     {
-        [HttpGet]
-        [Route("GetAll")]
-        [Authorize(Roles ="Admin")]
-        public List<PersonelOut> GetAll()
+
+
+        [HttpGet("GetAll")]
+        [ProducesResponseType(StatusCodes.Status200OK)]
+        [ProducesResponseType(StatusCodes.Status404NotFound)]
+        [ProducesResponseType(StatusCodes.Status400BadRequest)]
+        [ProducesResponseType(StatusCodes.Status401Unauthorized)]
+
+        public ActionResult<ResultList<PersonelOut>> GetAll()
         {
-            PersonnelManager personnel = new();
-            return personnel.GetAll();
+            try
+            {
+                PersonnelManager personnel = new();
+                List<PersonelOut> result = personnel.GetAll();
+
+                return Ok(new ResultList<PersonelOut> { Data = result, Success = true });
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(new ResultList<PersonelOut> { Success = false, Message = ex.Message });
+            }
+
+
+
         }
 
-        [HttpGet]
-        [Route("Get")]
-        public PersonelOut Get(int personnelId)
+        [HttpGet("Get")]
+        [ProducesResponseType(StatusCodes.Status200OK)]
+        [ProducesResponseType(StatusCodes.Status404NotFound)]
+        [ProducesResponseType(StatusCodes.Status400BadRequest)]
+        [ProducesResponseType(StatusCodes.Status401Unauthorized)]
+        public ActionResult<Result<PersonelOut>> Get(int personnelId)
         {
-            PersonnelManager personnelManager = new();
-            return personnelManager.Get(personnelId);
+            try
+            {
+                PersonnelManager personnelManager = new();
+                PersonelOut result = personnelManager.Get(personnelId);
+                return Ok(new Result<PersonelOut> { Data = result, Success = true });
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(new ResultList<PersonelOut> { Success = false, Message = ex.Message });
+            }
+
+
         }
 
-        [HttpPost]
-        [Route("Add")]
-        public ActionResult Add([FromBody]AddPersonelInput addPersonelInput)
+        [HttpPost("Add")]
+        [ProducesResponseType(StatusCodes.Status200OK)]
+        [ProducesResponseType(StatusCodes.Status404NotFound)]
+        [ProducesResponseType(StatusCodes.Status400BadRequest)]
+        [ProducesResponseType(StatusCodes.Status401Unauthorized)]
+        public ActionResult<Result> Add([FromBody] AddPersonelInput addPersonelInput)
         {
             try
             {
@@ -47,17 +80,22 @@ namespace PersonnelApp.API.Controllers
 
                 personnelManager.Insert(addPersonelInput);
 
-                return Ok("Personel ekleme işlemi başarılı.");
+                return Ok(new Result { Message="Kayıt işlemi başarılı", Success=true});
             }
             catch (Exception ex)
             {
 
-                return BadRequest(ex.Message);
+                return BadRequest(new Result { Message = ex.Message, Success = false });
             }
         }
 
+
         [HttpPut]
         [Route("Update")]
+        [ProducesResponseType(StatusCodes.Status200OK)]
+        [ProducesResponseType(StatusCodes.Status404NotFound)]
+        [ProducesResponseType(StatusCodes.Status400BadRequest)]
+        [ProducesResponseType(StatusCodes.Status401Unauthorized)]
         public ActionResult Update([FromBody] PersonelUpdateDto personelUpdateDto, int personnelId)
         {
             try
@@ -72,18 +110,36 @@ namespace PersonnelApp.API.Controllers
 
                 throw new Exception(ex.Message);
             }
-            
-        }
-        [HttpGet]
-        [Route("GetAllNonDeleted")]
-        public List<PersonelOut> GetAllNonDeleted()
-        {
-            PersonnelManager personnelManager = new();
-            return personnelManager.GetAllNonDelete();
+
         }
 
-        [HttpGet]
-        [Route("SetActive")]
+
+        [HttpGet("GetAllNonDeleted")]
+        [ProducesResponseType(StatusCodes.Status200OK)]
+        [ProducesResponseType(StatusCodes.Status404NotFound)]
+        [ProducesResponseType(StatusCodes.Status400BadRequest)]
+        [ProducesResponseType(StatusCodes.Status401Unauthorized)]
+        public ActionResult<ResultList<PersonelOut>> GetAllNonDeleted()
+        {
+            try
+            {
+                PersonnelManager personnelManager = new();
+                List<PersonelOut> result = personnelManager.GetAllNonDelete();
+                return Ok(new ResultList<PersonelOut> { Data = result, Success = true });
+            }
+            catch (Exception ex)
+            {
+
+                return BadRequest(new ResultList<PersonelOut> { Success = false, Message = ex.Message });
+            }
+            
+        }
+
+        [HttpGet("SetActive")]
+        [ProducesResponseType(StatusCodes.Status200OK)]
+        [ProducesResponseType(StatusCodes.Status404NotFound)]
+        [ProducesResponseType(StatusCodes.Status400BadRequest)]
+        [ProducesResponseType(StatusCodes.Status401Unauthorized)]
         public ActionResult SetActive(int personnelId)
         {
             try
@@ -100,8 +156,11 @@ namespace PersonnelApp.API.Controllers
             }
         }
 
-        [HttpGet]
-        [Route("Delete")]
+        [HttpGet("Delete")]
+        [ProducesResponseType(StatusCodes.Status200OK)]
+        [ProducesResponseType(StatusCodes.Status404NotFound)]
+        [ProducesResponseType(StatusCodes.Status400BadRequest)]
+        [ProducesResponseType(StatusCodes.Status401Unauthorized)]
         public ActionResult Delete(int personnelId)
         {
             try

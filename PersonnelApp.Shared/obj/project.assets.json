@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ali Toraman\\Desktop\\PersonelApp\\PersonnelApp\\PersonnelApp.Shared\\PersonnelApp.Shared.csproj",
+      "projectUniqueName": "C:\\Users\\Ali Toraman\\Desktop\\Çalışma Alanı\\PersonnelApp\\PersonnelApp.Shared\\PersonnelApp.Shared.csproj",
       "projectName": "PersonnelApp.Shared",
-      "projectPath": "C:\\Users\\Ali Toraman\\Desktop\\PersonelApp\\PersonnelApp\\PersonnelApp.Shared\\PersonnelApp.Shared.csproj",
+      "projectPath": "C:\\Users\\Ali Toraman\\Desktop\\Çalışma Alanı\\PersonnelApp\\PersonnelApp.Shared\\PersonnelApp.Shared.csproj",
       "packagesPath": "C:\\Users\\Ali Toraman\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ali Toraman\\Desktop\\PersonelApp\\PersonnelApp\\PersonnelApp.Shared\\obj\\",
+      "outputPath": "C:\\Users\\Ali Toraman\\Desktop\\Çalışma Alanı\\PersonnelApp\\PersonnelApp.Shared\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

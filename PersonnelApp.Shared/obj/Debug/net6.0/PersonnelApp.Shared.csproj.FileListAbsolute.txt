@@ -10,3 +10,15 @@ C:\Users\Ali Toraman\Desktop\PersonelApp\PersonnelApp\PersonnelApp.Shared\obj\De
 C:\Users\Ali Toraman\Desktop\PersonelApp\PersonnelApp\PersonnelApp.Shared\obj\Debug\net6.0\refint\PersonnelApp.Shared.dll
 C:\Users\Ali Toraman\Desktop\PersonelApp\PersonnelApp\PersonnelApp.Shared\obj\Debug\net6.0\PersonnelApp.Shared.pdb
 C:\Users\Ali Toraman\Desktop\PersonelApp\PersonnelApp\PersonnelApp.Shared\obj\Debug\net6.0\ref\PersonnelApp.Shared.dll
+C:\Users\Ali Toraman\Desktop\Çalışma Alanı\PersonnelApp\PersonnelApp.Shared\bin\Debug\net6.0\PersonnelApp.Shared.deps.json
+C:\Users\Ali Toraman\Desktop\Çalışma Alanı\PersonnelApp\PersonnelApp.Shared\bin\Debug\net6.0\PersonnelApp.Shared.dll
+C:\Users\Ali Toraman\Desktop\Çalışma Alanı\PersonnelApp\PersonnelApp.Shared\bin\Debug\net6.0\PersonnelApp.Shared.pdb
+C:\Users\Ali Toraman\Desktop\Çalışma Alanı\PersonnelApp\PersonnelApp.Shared\obj\Debug\net6.0\PersonnelApp.Shared.csproj.AssemblyReference.cache
+C:\Users\Ali Toraman\Desktop\Çalışma Alanı\PersonnelApp\PersonnelApp.Shared\obj\Debug\net6.0\PersonnelApp.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali Toraman\Desktop\Çalışma Alanı\PersonnelApp\PersonnelApp.Shared\obj\Debug\net6.0\PersonnelApp.Shared.AssemblyInfoInputs.cache
+C:\Users\Ali Toraman\Desktop\Çalışma Alanı\PersonnelApp\PersonnelApp.Shared\obj\Debug\net6.0\PersonnelApp.Shared.AssemblyInfo.cs
+C:\Users\Ali Toraman\Desktop\Çalışma Alanı\PersonnelApp\PersonnelApp.Shared\obj\Debug\net6.0\PersonnelApp.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Ali Toraman\Desktop\Çalışma Alanı\PersonnelApp\PersonnelApp.Shared\obj\Debug\net6.0\PersonnelApp.Shared.dll
+C:\Users\Ali Toraman\Desktop\Çalışma Alanı\PersonnelApp\PersonnelApp.Shared\obj\Debug\net6.0\refint\PersonnelApp.Shared.dll
+C:\Users\Ali Toraman\Desktop\Çalışma Alanı\PersonnelApp\PersonnelApp.Shared\obj\Debug\net6.0\PersonnelApp.Shared.pdb
+C:\Users\Ali Toraman\Desktop\Çalışma Alanı\PersonnelApp\PersonnelApp.Shared\obj\Debug\net6.0\ref\PersonnelApp.Shared.dll

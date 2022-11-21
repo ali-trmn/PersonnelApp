@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "2VunNv2TmAIL5zYctxkEMp2kUAhLiW1BXEHoUllfxUc=",
+  "Hash": "eC4Hx4j1QMBSaTlsdd06Vcw8/Tc5T8rvK8JuMCQMywo=",
   "Source": "PersonnelApp.API",
   "BasePath": "_content/PersonnelApp.API",
   "Mode": "Default",
@@ -10,17 +10,34 @@
     {
       "Name": "PersonnelApp.API\\wwwroot",
       "Source": "PersonnelApp.API",
-      "ContentRoot": "C:\\Users\\Ali Toraman\\Desktop\\PersonelApp\\PersonnelApp\\PersonnelApp.API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ali Toraman\\Desktop\\Çalışma Alanı\\PersonnelApp\\PersonnelApp.API\\wwwroot\\",
       "BasePath": "_content/PersonnelApp.API",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Ali Toraman\\Desktop\\PersonelApp\\PersonnelApp\\PersonnelApp.API\\wwwroot\\erkek-gunes-gozlugu-pilot-kcm78144133-1-ccbd7da4dd97495bac76a79ee71fe81e.jpg",
+      "Identity": "C:\\Users\\Ali Toraman\\Desktop\\Çalışma Alanı\\PersonnelApp\\PersonnelApp.API\\wwwroot\\entity joinn 3 tablo .png",
       "SourceId": "PersonnelApp.API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ali Toraman\\Desktop\\PersonelApp\\PersonnelApp\\PersonnelApp.API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ali Toraman\\Desktop\\Çalışma Alanı\\PersonnelApp\\PersonnelApp.API\\wwwroot\\",
+      "BasePath": "_content/PersonnelApp.API",
+      "RelativePath": "entity joinn 3 tablo .png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\entity joinn 3 tablo .png"
+    },
+    {
+      "Identity": "C:\\Users\\Ali Toraman\\Desktop\\Çalışma Alanı\\PersonnelApp\\PersonnelApp.API\\wwwroot\\erkek-gunes-gozlugu-pilot-kcm78144133-1-ccbd7da4dd97495bac76a79ee71fe81e.jpg",
+      "SourceId": "PersonnelApp.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ali Toraman\\Desktop\\Çalışma Alanı\\PersonnelApp\\PersonnelApp.API\\wwwroot\\",
       "BasePath": "_content/PersonnelApp.API",
       "RelativePath": "erkek-gunes-gozlugu-pilot-kcm78144133-1-ccbd7da4dd97495bac76a79ee71fe81e.jpg",
       "AssetKind": "All",
@@ -34,10 +51,27 @@
       "OriginalItemSpec": "wwwroot\\erkek-gunes-gozlugu-pilot-kcm78144133-1-ccbd7da4dd97495bac76a79ee71fe81e.jpg"
     },
     {
-      "Identity": "C:\\Users\\Ali Toraman\\Desktop\\PersonelApp\\PersonnelApp\\PersonnelApp.API\\wwwroot\\image.jpg",
+      "Identity": "C:\\Users\\Ali Toraman\\Desktop\\Çalışma Alanı\\PersonnelApp\\PersonnelApp.API\\wwwroot\\IMG-20220909-WA0002.jpg",
       "SourceId": "PersonnelApp.API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ali Toraman\\Desktop\\PersonelApp\\PersonnelApp\\PersonnelApp.API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ali Toraman\\Desktop\\Çalışma Alanı\\PersonnelApp\\PersonnelApp.API\\wwwroot\\",
+      "BasePath": "_content/PersonnelApp.API",
+      "RelativePath": "IMG-20220909-WA0002.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\IMG-20220909-WA0002.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Ali Toraman\\Desktop\\Çalışma Alanı\\PersonnelApp\\PersonnelApp.API\\wwwroot\\image.jpg",
+      "SourceId": "PersonnelApp.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Ali Toraman\\Desktop\\Çalışma Alanı\\PersonnelApp\\PersonnelApp.API\\wwwroot\\",
       "BasePath": "_content/PersonnelApp.API",
       "RelativePath": "image.jpg",
       "AssetKind": "All",
@@ -51,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\image.jpg"
     },
     {
-      "Identity": "C:\\Users\\Ali Toraman\\Desktop\\PersonelApp\\PersonnelApp\\PersonnelApp.API\\wwwroot\\unnamed.webp",
+      "Identity": "C:\\Users\\Ali Toraman\\Desktop\\Çalışma Alanı\\PersonnelApp\\PersonnelApp.API\\wwwroot\\unnamed.webp",
       "SourceId": "PersonnelApp.API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Ali Toraman\\Desktop\\PersonelApp\\PersonnelApp\\PersonnelApp.API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Ali Toraman\\Desktop\\Çalışma Alanı\\PersonnelApp\\PersonnelApp.API\\wwwroot\\",
       "BasePath": "_content/PersonnelApp.API",
       "RelativePath": "unnamed.webp",
       "AssetKind": "All",
