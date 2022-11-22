@@ -15,7 +15,6 @@ builder.Services.AddCors(opt =>
     opt.AddPolicy(name: MyAllowSpecificOrigins, policy =>
     {
         policy.WithOrigins(
-            // öyle herþeye izin verilmez linklerini buraya yazacaksýn :)
             "http://localhost:7177",
             "https://localhost:7177"
             ).AllowAnyHeader().AllowAnyMethod().AllowCredentials();

@@ -8,24 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Ali Toraman\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\alitr\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ali Toraman\\Desktop\\Çalışma Alanı\\PersonnelApp\\PersonnelApp.Shared\\PersonnelApp.Shared.csproj",
+      "projectUniqueName": "C:\\Users\\alitr\\Source\\Repos\\PersonnelApp\\PersonnelApp.Shared\\PersonnelApp.Shared.csproj",
       "projectName": "PersonnelApp.Shared",
-      "projectPath": "C:\\Users\\Ali Toraman\\Desktop\\Çalışma Alanı\\PersonnelApp\\PersonnelApp.Shared\\PersonnelApp.Shared.csproj",
-      "packagesPath": "C:\\Users\\Ali Toraman\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ali Toraman\\Desktop\\Çalışma Alanı\\PersonnelApp\\PersonnelApp.Shared\\obj\\",
+      "projectPath": "C:\\Users\\alitr\\Source\\Repos\\PersonnelApp\\PersonnelApp.Shared\\PersonnelApp.Shared.csproj",
+      "packagesPath": "C:\\Users\\alitr\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\alitr\\Source\\Repos\\PersonnelApp\\PersonnelApp.Shared\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Ali Toraman\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\alitr\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -33,7 +28,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

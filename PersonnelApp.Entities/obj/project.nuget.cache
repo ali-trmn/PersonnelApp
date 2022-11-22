@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9y+iUkjo2Jh/EVCE4P0DN2+wYAHNlgqJD/NEJusn6D0wNV0V66PK26xLNfDzIpDkWE+Vy52yRs0mMyEN9w9u0w==",
+  "dgSpecHash": "ZzaisBX8BGpS07wsoaTDyako7ae9d8lqVNVsmpYlsHXFEaXCJX88y3j20zVGlMhkMWFuHIu646CIKGAwdITjeg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ali Toraman\\Desktop\\Çalışma Alanı\\PersonnelApp\\PersonnelApp.Entities\\PersonnelApp.Entities.csproj",
+  "projectFilePath": "C:\\Users\\alitr\\Source\\Repos\\PersonnelApp\\PersonnelApp.Entities\\PersonnelApp.Entities.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
